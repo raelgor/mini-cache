@@ -1,0 +1,23 @@
+{
+  "name": "request-cache",
+  "version": "0.0.1",
+  "description": "A tiny abstract request caching class.",
+  "license": "MIT",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raelgor/request-cache.git"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "mocha --es_staging"
+  },
+  "author": {
+    "name": "Kosmas Papadatos",
+    "email": "kosmas.papadatos@gmail.com",
+    "url": "https://github.com/raelgor"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
