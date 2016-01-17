@@ -26,7 +26,7 @@ var cacheOptions = {
     defaultRequestHandler: () => { return new Promise(r => r()) } // Will be overwritten if one is passed to the handle method
 }
 
-var cache = new Cache(options);
+var cache = new Cache(cacheOptions);
 
 var requestOptions = {
     requestId: '/image.jpg', // Identify request by requestId
