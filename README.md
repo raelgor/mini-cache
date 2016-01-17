@@ -1,4 +1,4 @@
-# request-cache
+# mini-cache
 A tiny abstract request caching class.
 
 ## Manual
