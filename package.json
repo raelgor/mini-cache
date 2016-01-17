@@ -1,6 +1,6 @@
 {
   "name": "mini-cache",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A tiny abstract request caching class.",
   "license": "MIT",
   "main": "main.js",
