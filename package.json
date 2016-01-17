@@ -1,12 +1,12 @@
 {
-  "name": "request-cache",
+  "name": "mini-cache",
   "version": "0.0.1",
   "description": "A tiny abstract request caching class.",
   "license": "MIT",
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/raelgor/request-cache.git"
+    "url": "https://github.com/raelgor/mini-cache.git"
   },
   "dependencies": {},
   "scripts": {
