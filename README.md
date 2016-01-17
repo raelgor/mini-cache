@@ -11,13 +11,13 @@ A tiny abstract request caching class.
 ### Installation
 This module uses `class`es, spreading, `let`, generators etc. so depending on your Node version you may need `--harmony` or `--es_staging`.
 ```shell
-npm i --save request-cache
+npm i --save mini-cache
 ```
 
 ### Example
 
 ```js
-var Cache = require('request-cache').RequestCache;
+var Cache = require('mini-cache').RequestCache;
 
 var cacheOptions = {
     defaultTimeout: 3e4, // After 30 seconds, all requests will resolve with an error object
