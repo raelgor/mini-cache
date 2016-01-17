@@ -4,9 +4,9 @@ A tiny abstract request caching class.
 ## Manual
 * [Installation](#installation)
 * [Example](#example)
-* [Class: cache.RequestCache(options)](#class-requestcache)
+* [Class: cache.RequestCache(options)](#class-cacherequestcacheoptions)
     * [rc.handle(options)](#rchandleoptions)
-    * [rc.resolve(requestId, response)](#rcresolve)
+    * [rc.resolve(requestId, response)](#rcresolverequestid-response)
 
 ### Installation
 This module uses `class`es, spreading, `let`, generators etc. so depending on your Node version you may need `--harmony` or `--es_staging`.
